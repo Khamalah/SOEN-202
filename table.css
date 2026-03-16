@@ -1,0 +1,36 @@
+body{
+    font-family: Arial;
+}
+table{
+    width:80%;
+    border-collapse: collapse;
+    margin:auto;
+}
+
+th, td{
+    border:1px solid black;
+    padding:10px;
+    text-align:left;
+}
+
+.thead-th {
+text-align: center;
+	
+}
+
+.skyblue{
+	background-color: skyblue;
+}
+
+.green {
+	background-color: green;
+}
+
+
+h2{
+    text-align:center;
+}
+.footer{
+    text-align:center;
+    font-weight:bold;
+}
